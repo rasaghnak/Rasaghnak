@@ -8,7 +8,6 @@ Based on Rasaghna Kuturu's resume, here's a professional and impactful GitHub "A
 
 I'm Rasaghna Kuturu, a passionate **Data Science professional** with 3+ years of experience in **Data Analysis** and **Data Engineering**. My journey spans developing robust ETL pipelines, building interactive dashboards, and leveraging cloud technologies like AWS to transform data into actionable insights.
 
-📍 Currently pursuing my **Master’s in Data Science** at Indiana University, I’ve contributed to impactful projects in academic and industry settings — from optimizing county utility investments to building real-time churn prediction systems.
 
 ### 💼 Experience Highlights
 
