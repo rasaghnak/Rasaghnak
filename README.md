@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-Based on Rasaghna Kuturu's resume, here's a professional and impactful GitHub "About" section tailored for a Data Science and Data Engineering audience:
-
----
 
 ### 👋 About Me
 
-I'm Rasaghna Kuturu, a passionate **Data Science professional** with 3+ years of experience in **Data Analysis** and **Data Engineering**. My journey spans developing robust ETL pipelines, building interactive dashboards, and leveraging cloud technologies like AWS to transform data into actionable insights.
+I'm Rasaghna Kuturu, a passionate **Data Science professional** with 3+ years of experience in **Data Analysis** and **Data Engineering**. My journey spans developing robust ETL pipelines, working with Python & sql, building interactive dashboards, and leveraging cloud technologies like AWS to transform data into actionable insights.
 
 
 ### 💼 Experience Highlights
@@ -19,18 +16,11 @@ I'm Rasaghna Kuturu, a passionate **Data Science professional** with 3+ years of
 
 ### 🚀 Tech Stack
 
-* **Languages**: Python, SQL, R, C++, .NET
+* **Languages**: Python, SQL, R
 * **Data Tools**: Pandas, NumPy, Scikit-learn, GeoPandas, Matplotlib
 * **Visualization**: Tableau, Power BI, Streamlit
 * **Databases**: PostgreSQL, MySQL, Snowflake, MongoDB
 * **Cloud & Big Data**: AWS (Glue, S3, Athena, SageMaker), GCP, Kafka, Databricks
-
-### 📊 Projects Showcase
-
-* **Sensor Data Pipeline**: Real-time Kafka-to-AWS data stream processing
-* **Churn Detection System**: Predictive modeling and alert dashboards using Streamlit
-* **Healthcare Analytics**: Patient adherence tracking via Python and SQLite
-* **Financial Monitoring**: Auto-flagging suspicious transactions to aid small business audits
 
 ### 📫 Let’s Connect
 
